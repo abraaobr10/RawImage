@@ -1,7 +1,7 @@
 id=raw
 name=raw
-version=v1
-versionCode=11000
-author=Spencer_D
-description=Add RAW support.
+version=v2.0
+versionCode=20000
+author=Spencer
+description=Add RAW support on phone.
 updateJson=https://raw.githubusercontent.com/abraaobr10/RawImage/main/version.json
