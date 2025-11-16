@@ -1,6 +1,7 @@
 id=raw
 name=raw
 version=v1
-versionCode=10700
+versionCode=11000
 author=Spencer_D
 description=Add RAW support.
+updateJson=https://raw.githubusercontent.com/abraaobr10/RawImage/main/version.json
