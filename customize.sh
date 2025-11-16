@@ -57,7 +57,8 @@ ui_print "$(cat << 'EOF'
 | |_| |___) |                                
  \___/|____/   
 
-THE sun is rising.                              
+THE sun is rising.Heillllllllllllllllllllllll rfjr v r re feifinrfer
+ewrrkfnie niirenigierngitnignitingnitrniginringitg      555555555555555                        
 EOF
 )"
 
