@@ -1,6 +1,6 @@
 {
-    "version": "blabla4",
-    "versionCode": 4,
+    "version": "blabla50",
+    "versionCode": 5.0,
     "zipUrl": "https://github.com/abraaobr10/RawImage/releases/download/blabla50/rawa5.0.zip",
-    "changelog": "https://raw.githubusercontent.com/abraaobr10/RawImage/blabla4/CHANGELOG.md"
+    "changelog": "https://raw.githubusercontent.com/abraaobr10/RawImage/refs/heads/main/CHANGELOG.md"
 }
